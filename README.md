@@ -23,6 +23,8 @@ Task is to classify the car dataset into 4 classes: Unacceptable /Acceptable /Go
      - Training (1000 samples),
      - Validation (300 samples), and
      - Testing (428 samples) using Python for accurate model assessment.
+   ![merge_from_ofoct](https://github.com/RimTouny/KNeighborsClassifier/assets/48333870/c0888f24-0436-4f80-84ca-e85157e32760)
+
 
 2. **Preprocessing:**
    - Transformed categorical string attributes into numerical representations, enabling the application of distance-based metrics, such as Euclidean distance, crucial for KNN classification.
