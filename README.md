@@ -9,14 +9,14 @@ This repository contains Python code implementing a KNN classifier for the [Car 
 
 Task is to classify the car dataset into 4 classes: Unacceptable /Acceptable /Good /Very good.
 ### Independent Variables:
-   +	Buying: buying price
-   *	Maint: maintenance price
-   +	Doors: numbers of doors
-   *	Persons: capacity in terms of persons to carry
-   +	Lug_boot: Size of luggage boot
-   *	Safety: estimated safety of the car
+   +	'Buying': buying price
+   *	'Maint': maintenance price
+   +	'Doors': numbers of doors
+   *	'Persons': capacity in terms of persons to carry
+   +	'Lug_boot': Size of luggage boot
+   *	'Safety': estimated safety of the car
 ### Target variable:
-   +	Evaluation
+   +	'Evaluation'
 
 
 
