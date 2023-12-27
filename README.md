@@ -1,6 +1,9 @@
 # **K-Nearest Neighbors (KNN) Classifier for Car Evaluation Dataset**
 This repository contains Python code implementing a KNN classifier for the car-evaluation dataset as part of a Machine Learning course project at the University of Ottawa in 2023.
 
+Required libraries: scikit-learn, pandas, matplotlib.
+Execute cells in a Jupyter Notebook environment.
+
 ## Multi-class classification problem
 
 Task is to classify the car dataset into 4 classes: Unacceptable /Acceptable /Good /Very good.
