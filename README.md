@@ -4,6 +4,8 @@ This repository contains Python code implementing a KNN classifier for the [Car 
 
 - Required libraries: scikit-learn, pandas, matplotlib.
 - Execute cells in a Jupyter Notebook environment.
+- The uploaded code has been executed and tested successfully within the [Google Colab](https://colab.google/) environment.
+
 
 ## Multi-class classification problem
 
