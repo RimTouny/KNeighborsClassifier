@@ -8,8 +8,8 @@ This repository contains Python code implementing a KNN classifier for the [Car 
 
 
 ## Multi-class classification problem
-
 Task is to classify the car dataset into 4 classes: Unacceptable /Acceptable /Good /Very good.
+
 ### Independent Variables:
    +	'Buying': buying price
    *	'Maint': maintenance price
@@ -19,7 +19,6 @@ Task is to classify the car dataset into 4 classes: Unacceptable /Acceptable /Go
    *	'Safety': estimated safety of the car
 ### Target variable:
    +	'Evaluation'
-
 
 
 ## **Key Tasks Undertaken**
